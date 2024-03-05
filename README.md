@@ -1,2 +1,3 @@
-# Course 293 - Project
-This is a repository for the course 293 from the vocational school.
+# Module 293 - Project
+
+This repository is the project of the module 293 from professional school. 
